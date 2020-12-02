@@ -10,8 +10,5 @@
 		<title></title>
 	</head>
 	<body>
-		<div class="footerContent">
-			library @ 2017 | Contact Us
-		</div>
 	</body>
 </html>
